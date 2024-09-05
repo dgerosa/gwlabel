@@ -1,4 +1,4 @@
-# gw_identify
+# gwidentify
 
 Code release supporting:
 
