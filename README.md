@@ -1,4 +1,4 @@
-# gwidentify
+# gwlabel
 
 Code release supporting:
 
