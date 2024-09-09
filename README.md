@@ -2,7 +2,7 @@
 
 Code release supporting:
 
-- _Identification of the two compact objects in gravitational-wave binaries_. Davide Gerosa, Viola De Renzis, Federica Tettoni, Matthew Mould, Alberto Vecchio, Costantino Pacilio.
+- _Which is which? Identification of the two compact objects in gravitational-wave binaries_. Davide Gerosa, Viola De Renzis, Federica Tettoni, Matthew Mould, Alberto Vecchio, Costantino Pacilio.
 
 The notebook provided illustrates the adopted algorithm, reproducing the model described in the supplemental material of our paper.
 
